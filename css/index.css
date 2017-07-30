@@ -1,13 +1,29 @@
-.button{
-    border: 1px solid black;
-    text-align: center;
-    
+*{
+    font-family: 'Roboto Mono', monospace;
 }
-.button:hover{
-    border: 1px solid white;
+.btn-block{
+    border:none;
+    padding:10px;
+    background-color: #E4EEEA;
+    border: 1px solid #9CC4B2;
+}
+.btn-block:hover{
+    background-color: #C9DED5;
 }
 
+
 .screen{
+    background-color: #E4EEEA;
+    margin-right: 50px;
     height: 30px;
-    text-align: right;
+    margin-top: 25px;
+    text-align: center;
+    font-size: 20px;
+    width: 100%;
+    border: 1px solid #9CC4B2;
 }
+.container{
+    margin-top:15px;
+    text-align: center
+}
+
