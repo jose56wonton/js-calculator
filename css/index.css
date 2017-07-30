@@ -1,0 +1,13 @@
+.button{
+    border: 1px solid black;
+    text-align: center;
+    
+}
+.button:hover{
+    border: 1px solid white;
+}
+
+.screen{
+    height: 30px;
+    text-align: right;
+}
